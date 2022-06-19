@@ -1,6 +1,6 @@
 {
     "ModName": "RPGUnits",
-    "AuthorName": "",
+    "AuthorName": "Crasher",
     "Description": "",
     "Version": 1,
     "BuildsInfo": [
@@ -8,13 +8,8 @@
             "Platform": 1,
             "PluginVersion": "1.3.3",
             "GameVersion": "1.1.102r19"
-        },
-        {
-            "Platform": 3,
-            "PluginVersion": "1.3.3",
-            "GameVersion": "1.1.102r19"
         }
     ],
     "ModSourceUrl": "",
-    "Id": "b6d47576260c4c5aa9f32b47136f31c8"
+    "Id": "b6d47576260c4c1aa9f32b47136f31c8"
 }
